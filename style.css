@@ -6,7 +6,13 @@ body {
     margin: 0;
 
 }
-
+.image{
+    width:30%;
+    height: 30%;
+}
+.code{
+    outline: none;
+}
 .mainblock {
     max-width: 1024px;
     margin: 8;
